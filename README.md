@@ -6,6 +6,7 @@ But when setting `customHeaders`, the HEAD request does not send those.
 ## Prerequisite
 * dotnet SDK 6.0.101 (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 * nodejs latest LTS 16.13.2 (https://nodejs.org/en/download/)
+* add license to app.component.ts => `INSERT_LICENCE_HERE`
 
 ## Reproducing the issue
 * navigate to ./client
